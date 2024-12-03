@@ -1,5 +1,4 @@
 // Day 2, Problem 1
-// Given an array of vectors, find all the rows are sorted, the difference between adjacent elements is less than 3.
 
 // Considerations:
 // 1. This question can also be solved with just reading the file and counting the rows.

@@ -1,5 +1,4 @@
 // Day 1, Question 1.
-// Given two arrays, find the distance between adjacent elements after sorting them.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,11 +19,6 @@ void quickSort(int arr[], int low, int high) {
         quickSort(arr, i + 2, high);
     }
 }
-
-// construct array from file input
-// the file contains two columns of integers
-// the first column is the first array
-// the second column is the second array
 
 void constructArrayFromFile(string filename, int arr1[], int arr2[]) {
     ifstream file(filename);

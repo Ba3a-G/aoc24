@@ -1,5 +1,4 @@
 // Day 1, Question 2.
-// Given two arrays, find how many times an element in arr1 appears in arr2 and multiply and sum them.
 
 #include <bits/stdc++.h>
 using namespace std;
